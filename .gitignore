@@ -5,3 +5,5 @@
 # Python virtualenv
 
 .venv
+
+.DS_Store
