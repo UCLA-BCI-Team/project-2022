@@ -2,8 +2,11 @@
 
 .vscode
 
-# Python virtualenv
+# Python
 
 .venv
+__pycache__
+
+# macOS
 
 .DS_Store
