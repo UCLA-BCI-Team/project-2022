@@ -1,3 +1,5 @@
+# Code originally from https://brainflow.readthedocs.io/en/stable/Examples.html#python-read-write-file
+
 import time
 import numpy as np
 import pandas as pd
