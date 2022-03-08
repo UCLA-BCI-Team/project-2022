@@ -1,0 +1,7 @@
+# IDE
+
+.vscode
+
+# Python virtualenv
+
+.venv
